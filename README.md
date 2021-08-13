@@ -1,6 +1,6 @@
-# esp-homekit-demo
-Demo of [Apple HomeKit accessory server
-library](https://github.com/maximkulkin/esp-homekit).
+# An ESP8266 thhermostat with OLED display and Homekit compatibility
+Apple HomeKit accessory server library]
+(https://github.com/maximkulkin/esp-homekit).
 
 ## Usage
 
